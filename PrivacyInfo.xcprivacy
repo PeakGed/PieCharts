@@ -1,0 +1,11 @@
+{
+    "NSPrivacyTracking": false,
+    "NSPrivacyTrackingDomains": [],
+    "NSPrivacyCollectedDataTypes": [],
+    "NSPrivacyAccessedAPITypes": [
+        {
+            "type": "NSPrivacyAccessedAPICategoryUserDefaults",
+            "reason": "This library uses CoreGraphics and UIKit to render pie charts"
+        }
+    ]
+} 
